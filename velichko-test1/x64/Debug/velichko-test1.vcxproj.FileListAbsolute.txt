@@ -1,0 +1,3 @@
+F:\coursework\lab4\velichko-test1\x64\Debug\gtest.pdb
+F:\coursework\lab4\velichko-test1\x64\Debug\gtest_main.pdb
+F:\coursework\lab4\velichko-test1\velichko-test1\x64\Debug\velichko.45398C39.Up2Date
